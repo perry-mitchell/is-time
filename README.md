@@ -1,7 +1,7 @@
 # is-time
 Check if a string is a time value
 
-[![Build Status](https://travis-ci.org/perry-mitchell/is-time.svg?branch=master)](https://travis-ci.org/perry-mitchell/is-time)
+[![Build Status](https://travis-ci.org/perry-mitchell/is-time.svg?branch=master)](https://travis-ci.org/perry-mitchell/is-time) [![npm version](https://badge.fury.io/js/is-time.svg)](https://www.npmjs.com/package/is-time)
 
 ## About
 `is-time` provides a simple function which can be used to test if a value resembles a _time_.
