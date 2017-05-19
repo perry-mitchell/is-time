@@ -1,0 +1,29 @@
+{
+  "name": "is-time",
+  "version": "0.1.0",
+  "description": "Check if a string is a time value",
+  "main": "source/index.js",
+  "scripts": {
+    "test": "mocha test/**/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perry-mitchell/is-time.git"
+  },
+  "keywords": [
+    "time",
+    "validate",
+    "check",
+    "is-time"
+  ],
+  "author": "Perry Mitchell <perry@perrymitchell.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/perry-mitchell/is-time/issues"
+  },
+  "homepage": "https://github.com/perry-mitchell/is-time#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.4.1"
+  }
+}
